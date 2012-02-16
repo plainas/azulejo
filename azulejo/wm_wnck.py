@@ -1,17 +1,31 @@
-# base window manager layout
+import wm
+import gtk, wnck
 
-class Desktop:
+
+class Desktop(wm.Desktop):
 
     def __init__(self):
         return null
 
     # return a list, default screen should be the first one in the list and so on
     def getallscreens(self):
-	return null
+           #def get_n_screens()
+	   #def get_screen(screen_num)
 
 
 class screen:
-    
+    """
+   def get_root_window()
+    def get_display()
+    def get_number()
+    def get_width()
+    def get_height()
+    def get_width_mm()
+    def get_height_mm()
+    def list_visuals()
+    def get_toplevel_windows()
+
+	"""
     def __init__(self):
         return null
 
