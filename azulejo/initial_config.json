@@ -108,7 +108,7 @@
 {
 "name":"rotate-windows-positions",
 "description": "rotates windows' positions, rotation queue will be the size of last arrangement or, if smaller, the number of visible windows ",
-"keybind": "<Super>r",
+"keybind": "<Super>j",
 "function" : "rotate_windows",
 "parameters":[]
 }
