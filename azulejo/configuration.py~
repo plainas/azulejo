@@ -37,7 +37,7 @@ if not os.path.isfile(conf_filename):
     print "Starting azulejo by creating file: '%s'" %(conf_filename)
     create_inicial_config_file(conf_filename)
 
-#print "Reading config file: '%s'" %(conf_filename)
+print "Reading config file: '%s'" %(conf_filename)
 json_string = read_file(conf_filename)
 
 conf_data = json.loads(json_string)
