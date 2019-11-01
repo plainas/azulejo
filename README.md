@@ -1,3 +1,7 @@
+
+This project is no longer maintained. The underlying window managment libraries became too isolated from each other and their APIs change too rapidly. As of 2019, there is no good option for managing windows that would work across the man most popular desktop environments.
+
+
 # Azulejo
 
 Azulejo is a port (an attempt to) of [winsplit revolution](http://www.winsplit-revolution.com/)'s functionality to *nix desktop environments.
