@@ -45,8 +45,6 @@ Azulejo configurations are stored on ''~/.azulejo.json''.
 
 TODO: add/explain example
 
-## Author
+## contact
 
-Pedro   
-[http://lamehacks.net](http://lamehacks.net)   
-email: pedro at lamehacks d0t net
+pedroghcode@gmail.com
